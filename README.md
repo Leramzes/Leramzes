@@ -25,7 +25,7 @@
 
 | Languages | Framework and Libraries |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=java,php,js,typescript"/> | <img src="https://skillicons.dev/icons?i=angular,spring,nodejs"/> |
+| <img src="https://skillicons.dev/icons?i=java,php,js,typescript"/> | <img src="https://skillicons.dev/icons?i=angular,spring,nodejs,jquery,bootstrap"/> |
 
 </div>
 
@@ -41,7 +41,7 @@
 
 | Tools |
 | ------------- |
-| <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,idea"/> <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="50"/> |
+| <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,idea,netlify"/> <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="50"/> |
 
 </div>
 
