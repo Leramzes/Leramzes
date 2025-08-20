@@ -41,7 +41,7 @@
 
 | Tools |
 | ------------- |
-| <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,idea,netlify"/> <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="50"/> |
+| <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,idea,netlify,discord,markdown"/> <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="50"/> |
 
 </div>
 
@@ -74,6 +74,14 @@
 
 <br>
 
-<div align="Center">
+
 <h1>Contact</h1>
-</div>
+<a href="https://www.linkedin.com/in/lenin-ramirez-ucanay" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+<a href="https://discord.com/users/983224401849892955" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord"/>
+</a>
+<a href="mailto:lenin.ru.1996@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
